@@ -1,0 +1,14 @@
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\obj\Debug\netcoreapp3.1\Snake_LadderProb.csproj.AssemblyReference.cache
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\obj\Debug\netcoreapp3.1\Snake_LadderProb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\obj\Debug\netcoreapp3.1\Snake_LadderProb.AssemblyInfoInputs.cache
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\obj\Debug\netcoreapp3.1\Snake_LadderProb.AssemblyInfo.cs
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\obj\Debug\netcoreapp3.1\Snake_LadderProb.csproj.CoreCompileInputs.cache
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\bin\Debug\netcoreapp3.1\Snake_LadderProb.exe
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\bin\Debug\netcoreapp3.1\Snake_LadderProb.deps.json
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\bin\Debug\netcoreapp3.1\Snake_LadderProb.runtimeconfig.json
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\bin\Debug\netcoreapp3.1\Snake_LadderProb.runtimeconfig.dev.json
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\bin\Debug\netcoreapp3.1\Snake_LadderProb.dll
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\bin\Debug\netcoreapp3.1\Snake_LadderProb.pdb
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\obj\Debug\netcoreapp3.1\Snake_LadderProb.dll
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\obj\Debug\netcoreapp3.1\Snake_LadderProb.pdb
+C:\Users\om\source\repos\Snake_LadderProb\Snake_LadderProb\obj\Debug\netcoreapp3.1\Snake_LadderProb.genruntimeconfig.cache
